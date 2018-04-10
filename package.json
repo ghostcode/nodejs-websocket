@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-websocket",
+  "version": "1.0.0",
+  "description": "websocket实例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostcode/nodejs-websocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostcode/nodejs-websocket/issues"
+  },
+  "homepage": "https://github.com/ghostcode/nodejs-websocket#readme",
+  "dependencies": {
+    "socket.io": "^2.1.0"
+  }
+}
